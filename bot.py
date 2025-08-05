@@ -3,7 +3,7 @@ import sqlite3
 from datetime import datetime
 
 # === CONFIGURACIÓN ===
-TOKEN = '8179098179:AAEWcZCyaj0KVfQARZrLj0EkNqp4Z4fTLM8'
+TOKEN = '8179098179:AAHz1uxVTvbuQu5OJOn2tr6lTebOjQLVINs'  # <-- token nuevo
 ADMIN_ID = 6383544407
 
 # === BASE DE DATOS ===
